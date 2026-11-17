@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/target/
+/dist/
+*.log
+*.user
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+Thumbs.db
+.DS_Store
